@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+  margin-top: 0px;
+  padding-bottom: 50px;
+  background-color:antiquewhite;
+}
+h1{ 
+  color :brown;
+}
+button{
+  margin: 20px;
+}
+.chrono{
+  color: brown;
+}
+p{
+ font-size:  40px;
+}
